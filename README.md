@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Mert 👋
 
-<!--
-**MertTok/MertTok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things with code and share what I learn along the way.
+Writing about AI, software, and just about everything else.
 
-Here are some ideas to get you started:
+🔗 [merttok.com](https://merttok.com) · [Blog](https://merttok.com/blog)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Latest writing
+- [From Vibe Coding to Agentic Engineering](https://merttok.com/blog/from-vibe-coding-to-agentic-engineering)
+- [Agentic AI is Awesome... But How Do You Build One?](https://merttok.com/blog/how-to-build-agentic-ai)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=black&style=flat-square)
