@@ -11,4 +11,4 @@ Writing about AI, software, and just about everything else.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=MertTok&color=161b22&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=MertTok&color=161b22&style=flat-square)
